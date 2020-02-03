@@ -1,5 +1,13 @@
 How To SSH/Log Into Your Clarkson Polaris Account
 ======
+This article will help guide you on how to access your clarkson polaris account and be able to simple commands via command line and create directories and files. 
+
+Before you begin, you want to make sure you have a polaris account and if not, one can be created by talking to OIT, located on the second floor of the ERC at Clarkson University.
+
+NOTE: be aware that you can access your polaris account through your built in terminal if on MAC, or powershell if on a windows machine. Otherwise you can download PUTTY here.
+
+But for demo purposes we are on a windows machine using powershell.
+
 
 STEP 1: Logging into to polaris
 ---------------	
